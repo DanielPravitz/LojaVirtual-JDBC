@@ -1,5 +1,5 @@
 # LojaVirtual-JDBC
-Projeto do curso de JDBC e persistência de objetos.
+Projeto do curso de JDBC e persistência de objetos, onde é possível realizar o CRUD de produtos.
 Durante o desenvolvimento do projeot foram utilizados padrões relacionados com a persistência de informação:
 - Connection Factory - Responsável por realizar a conexão com o banco de dados
 - Data Access Object (DAO) - Executa as operações sobre os objetos que são persistidos
